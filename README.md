@@ -6,12 +6,12 @@ Hello I am Prajnajeet , an open source enthusiast. I design and code beautifully
 Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
 
 ![age](https://img.shields.io/badge/age-20-blue)
-![focus](https://img.shields.io/badge/focus-Blockchain Development-brightgreen)
+![focus](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/aira-jena-718437216) 
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/prajna-jeet-ojha-84711a224/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
