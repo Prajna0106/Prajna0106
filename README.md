@@ -5,9 +5,8 @@
 Hello I am Prajnajeet , an open source enthusiast. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.I value simple content structure, clean design patterns, and thoughtful interactions.I like to code things from scratch, and enjoy bringing ideas to life in the browser.I genuinely care about people, and love helping fellow designers work on their craft.Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. Experienced at designing unit tests to measure the effectiveness of software programs, backend services, and user interfaces. Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term. Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function. Maximized applications’ efficiency, data quality, scope, operability, and flexibility.
 
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)
-![living](https://img.shields.io/badge/living-Jamshedpur-3c9)
+![age](https://img.shields.io/badge/age-20-blue)
+![focus](https://img.shields.io/badge/focus-Blockchain Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🌱 I’m currently learning Android Development
