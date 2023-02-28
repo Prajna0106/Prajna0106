@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://media.licdn.com/dms/image/D4D16AQH_TbXqhESYzg/profile-displaybackgroundimage-shrink_350_1400/0/1677578359196?e=1683158400&v=beta&t=c-EDtb2dcHB0_b7DkAwf2apKvOreksoIIlZ1Ptb_9No)
 <h1 align="center">  PrajnaJeet Ojha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">Hello! Welcome to my Github profile! Thanks for Visiting!🙃</h3>
   
@@ -9,7 +9,7 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 ![focus](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning web Development 
 - 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/prajna-jeet-ojha-84711a224/) 
 - 😄 Pronouns: he/him/his
@@ -26,6 +26,13 @@ Skilled at reading and writing code using viable inputs and outputs after accura
 <br>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna0106)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajna0106&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Prajna0106)  
+
+![Profile views](https://gpvc.arturio.dev/Prajna0106)  
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/>
