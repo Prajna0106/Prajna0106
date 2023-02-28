@@ -1,5 +1,5 @@
 ![](https://media.licdn.com/dms/image/D4D16AQH_TbXqhESYzg/profile-displaybackgroundimage-shrink_350_1400/0/1677578359196?e=1683158400&v=beta&t=c-EDtb2dcHB0_b7DkAwf2apKvOreksoIIlZ1Ptb_9No)
-<h1 align="center">  PrajnaJeet Ojha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">  Prajna Jeet Ojha <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">Hello! Welcome to my Github profile! Thanks for Visiting!🙃</h3>
   
 Hello I am Prajnajeet , an open source enthusiast. I design and code beautifully simple things, and I love what I do. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.I value simple content structure, clean design patterns, and thoughtful interactions.I like to code things from scratch, and enjoy bringing ideas to life in the browser.I genuinely care about people, and love helping fellow designers work on their craft.Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
